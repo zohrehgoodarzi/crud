@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04a1eac3.css",
+    "main.js": "/static/js/main.e86da4a1.js",
+    "static/media/organic-skin-care.jpg": "/static/media/organic-skin-care.9ccda92707804e45efe9.jpg",
+    "static/media/sustainable-beauty-brands-lead.jpg": "/static/media/sustainable-beauty-brands-lead.b4b5772f0247d6dc3e7c.jpg",
+    "static/media/aveeno.jpg": "/static/media/aveeno.0a9478fc82cb8beed629.jpg",
+    "static/media/Small_Refrigerator_Skincare_Products.jpg": "/static/media/Small_Refrigerator_Skincare_Products.b985d6f13fd7e71ef395.jpg",
+    "static/media/bubble-skincare.jpg": "/static/media/bubble-skincare.15e849c1a2353086a2b8.jpg",
+    "static/media/brand-ceylon.jpg": "/static/media/brand-ceylon.fbbb3d8867035778f493.jpg",
+    "static/media/mask.jpg": "/static/media/mask.c35c6c738b57028f4262.jpg",
+    "static/media/best-skincare-routine-for-dry-skin.jpg": "/static/media/best-skincare-routine-for-dry-skin.b93759dc67b20123f387.jpg",
+    "static/media/product.jpg": "/static/media/product.c42b585e6e702de87d74.jpg",
+    "static/media/girl.jpg": "/static/media/girl.2bec864315460e2ff49b.jpg",
+    "static/media/tula.jpg": "/static/media/tula.2214a9e4774b91d43145.jpg",
+    "static/media/oteria-logo.png": "/static/media/oteria-logo.f632f57b90c8836cc010.png",
+    "static/media/rael.jpg": "/static/media/rael.12cc3a6b6ab5dee17c3a.jpg",
+    "static/media/skincare.jpg": "/static/media/skincare.2ba1d1ec55a9ad72dcfd.jpg",
+    "static/media/product-skin.jpg": "/static/media/product-skin.0c4eda00917d599443bb.jpg",
+    "index.html": "/index.html",
+    "main.04a1eac3.css.map": "/static/css/main.04a1eac3.css.map",
+    "main.e86da4a1.js.map": "/static/js/main.e86da4a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04a1eac3.css",
+    "static/js/main.e86da4a1.js"
+  ]
+}
